@@ -6,7 +6,7 @@ Structured Python + DSA study log. One concept + LeetCode problem every day.
 
 | Day | Topic | LeetCode | Complexity |
 |-----|-------|----------|------------|
-| 01  | Variables, types, arithmetic | Two Sum | O(n) time, O(n) space |
+| 01  | Variables, types, arithmetic | Two Sum, BMI Index | O(n) time, O(n) space |
 
 ## Stack
 - Python 3.12
